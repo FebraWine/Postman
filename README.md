@@ -1,3 +1,5 @@
-Регистрация: ![image](https://github.com/FebraWine/Postman/assets/155914978/7f509ab6-6c7a-4281-aac2-e8f660e3aea2)
-Аунтификация: ![image](https://github.com/FebraWine/Postman/assets/155914978/5af2ad2d-0f1b-46be-a4db-351f4ecd187c)
+Регистрация:![image](https://github.com/FebraWine/Postman/assets/155914978/a177a567-a954-442e-85fd-30b66eb23b21)
+Аунтификация: ![image](https://github.com/FebraWine/Postman/assets/155914978/f4b5ebcf-3711-4135-96db-b79206961b23)
+Endpoints -> Get Current User: ![image](https://github.com/FebraWine/Postman/assets/155914978/fa2b377c-b1ac-411e-9fe9-186581a06f45)
+
 
